@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-10% of Earth's freshwater exists in the atmosphere as fog — a vast, untapped resource. This project develops an **artificial fog collection system** using additive manufacturing, drawing inspiration from nature's most effective water-harvesting organisms. By replicating micro- and nanoscale surface structures found in cactus spines, spider silk, rice leaves, and *Nepenthes alata* (pitcher plant), the system significantly improves droplet capture, transport, and collection efficiency.
+10% of Earth's freshwater exists in the atmosphere as fog, a vast, untapped resource. This project develops an **artificial fog collection system** using additive manufacturing, drawing inspiration from nature's most effective water-harvesting organisms. By replicating micro- and nanoscale surface structures found in cactus spines, spider silk, rice leaves, and *Nepenthes alata* (pitcher plant), the system significantly improves droplet capture, transport, and collection efficiency.
 
 ---
 
@@ -35,11 +35,11 @@
 
 The integrated design combines **5 bioinspired components:**
 
-- **Cactus spines** — 4-spine node system with 15° and 25° lean angles and a 10° tip taper for optimal Laplace pressure-driven water transport
+- **Cactus spines** - 4-spine node system with 15° and 25° lean angles and a 10° tip taper for optimal Laplace pressure-driven water transport
 - **Rice leaf boomerang pattern** — 30° bottom angle channels for directional water flow
-- **Spider web structure** — triangular convex-to-concave spindle knots (125 µm large, 50 µm small) for droplet capture
-- **Node channel** — internal channel structure for water collection
-- **C-IAPGs** (Controlled Interfacial Asymmetrical Patterned Grooves) — simplified grooves for directing water to a central reservoir
+- **Spider web structure** - triangular convex-to-concave spindle knots (125 µm large, 50 µm small) for droplet capture
+- **Node channel** - internal channel structure for water collection
+- **C-IAPGs** (Controlled Interfacial Asymmetrical Patterned Grooves) - simplified grooves for directing water to a central reservoir
 
 **Base dimensions (1.0 scale):** Height = 1.699 mm | Base = 3.5 mm × 3.5 mm  
 **Successfully printed at 2.0 scale** with spider webs intact
@@ -64,7 +64,7 @@ The integrated design combines **5 bioinspired components:**
 
 ## 🔬 Key Physics & Mechanisms
 
-**Condensation:** Dropwise condensation preferred — lower thermal resistance accelerates water collection. Surface wettability categories:
+**Condensation:** Dropwise condensation preferred - lower thermal resistance accelerates water collection. Surface wettability categories:
 - Superhydrophilic: contact angle < 5°
 - Hydrophilic: contact angle < 90°
 - Hydrophobic: contact angle 90°–150°
@@ -109,7 +109,7 @@ The integrated design combines **5 bioinspired components:**
 
 ## 🌍 Broader Impact
 
-Water scarcity affects over 4 billion people worldwide. This fog collection system offers a scalable, energy-efficient, and geographically unrestricted alternative to desalination and groundwater extraction — particularly valuable for rural and underprivileged communities in arid and fog-prone regions.
+Water scarcity affects over 4 billion people worldwide. This fog collection system offers a scalable, energy-efficient, and geographically unrestricted alternative to desalination and groundwater extraction — particularly valuable for rural and underserved communities in arid, fog-prone regions.
 
 ---
 
